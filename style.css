@@ -1,0 +1,80 @@
+.table1{
+    background-color:rgb(235, 235, 235);
+    position:fixed;
+    margin-left: 0mm;
+        
+}
+.TC1{
+    text-align:center;
+    font-family:'Times';
+}
+a{
+    color: rgb(202, 30, 30);
+}
+#img{
+    text-align:justify;
+}
+body{
+    margin: 0px;
+    /* background-image: url(http://www.fmtemplate.net/demo/2020/FrozenYogurtShop/images/bg-home.jpg);
+    background-position:unset; */
+}
+img{
+    size: 100px;
+}
+div{   
+    position:relative;
+    background-color:rgb(235, 235, 235);
+    color: chocolate;
+    height: 200px;
+    width: 100%;
+    /* background-position: right; */
+}
+#NP{
+    font-size: 6;
+    margin-left: 50mm;
+    margin-block-start: 0%;
+    
+    
+}
+#Healty_yougurt{
+    font-size: 8mm;
+    margin-left: 0mm;
+    color:rgb(223, 29, 94);   
+    margin-block-start: 0%; 
+}
+p{
+    margin-left: 50mm;
+    margin-block-end: 0%;
+}
+#table2{
+    background-color:rgb(183, 211, 25);
+    height: 25mm;
+    
+}
+td{
+    text-align: center;
+    color: white;
+}
+.class2{
+    width: 10mm;
+    height: 10mm;
+}
+#img2{
+    width:200px;
+    margin-left: 250mm;
+}
+#aboutbody{
+    background-image: url("http://www.fmtemplate.net/demo/2020/FrozenYogurtShop/images/bg-home.jpg");
+}
+#lasttable{
+    background-color:rgb(245, 37, 78);
+}
+.h1{
+    color: blue;
+}
+#picid{
+    position: absolute;
+    right: 120px;
+    bottom: 0px;
+}
